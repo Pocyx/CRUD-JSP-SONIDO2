@@ -1,0 +1,8 @@
+{
+    "elements": {
+        "html:select": {},
+        "form": {},
+        "form:select": {}
+    },
+    "attributes": {}
+}
